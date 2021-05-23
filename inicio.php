@@ -20,7 +20,7 @@ class PDF extends FPDF{
 }
 
 $nombres = array(
-    array('nombreC' =>'Enmanuel','apellido' => 'Ruiz','matricula' => '2019-1026'),
+    array('nombreC' =>'Enmanuel','apellido' => 'Ruiz','matricula' => '2019-0890'),
     array('nombreC' =>'Pablo','apellido' => 'Perez','matricula' => '2019-1156'),
     array('nombreC' =>'Jessica','apellido' => 'Ramirez','matricula' => '2019-5506'),
     array('nombreC' =>'Carlos','apellido' => 'Quezada','matricula' => '2019-5464'),
